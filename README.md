@@ -1,16 +1,23 @@
-## Hi there 👋
+# Lim Youngjae
 
-<!--
-**Limprimejae/limprimejae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+**JU, Chanhyeok**<br>
+Majoring in archaeology<br>
+Seoul, Republic of Korea<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+###  Kyungpook National University, Daegu<br>
+&nbsp; Department of Archaeology and Anthropology / B.A.
+
+###  Kyungpook National University, Daegu<br>
+&nbsp; Department of Archaeology and Anthropology / M.A.
+
+### Kyungpook National University, Daegu<br>
+&nbsp; Department of Archaeology and Anthropology / Ph.D
+
+## Affiliation
+
+### Seoul National Research Institute of Cultural Heritage<br>
+&nbsp; Researcher
