@@ -17,5 +17,8 @@ Seoul, Republic of Korea<br>
 
 ## Affiliation
 
+### Kyungpook National University<br>
+&nbsp; Department of Archaeology and Anthropology / Lecturer
+
 ### Seoul National Research Institute of Cultural Heritage<br>
 &nbsp; Pungnaptoseong Archaeological Excavation Team / Researcher
