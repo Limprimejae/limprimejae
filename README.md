@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**JU, Chanhyeok**<br>
+**Lim, Youngjae**<br>
 Majoring in archaeology<br>
 Seoul, Republic of Korea<br>
 
