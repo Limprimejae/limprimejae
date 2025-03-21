@@ -18,4 +18,4 @@ Seoul, Republic of Korea<br>
 ## Affiliation
 
 ### Seoul National Research Institute of Cultural Heritage<br>
-&nbsp; Researcher
+&nbsp; Pungnaptoseong Archaeological Excavation Team / Researcher
