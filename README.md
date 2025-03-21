@@ -1,5 +1,3 @@
-# Lim Youngjae
-
 ## Introduction
 
 **Lim, Youngjae**<br>
