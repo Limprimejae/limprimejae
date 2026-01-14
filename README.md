@@ -20,5 +20,5 @@ Seoul, Republic of Korea<br>
 ### Kyungpook National University<br>
 &nbsp; Department of Archaeology and Anthropology / Lecturer
 
-### Seoul National Research Institute of Cultural Heritage<br>
-&nbsp; Pungnaptoseong Archaeological Excavation Team / Researcher
+### Pusan National University<br>
+&nbsp; Department of Archaeology, Brainkorea21 Four, Advanced Graduate Project of Convergence of SAP in East Asia / Research Professor
