@@ -1,24 +1,33 @@
-## Introduction
+## 👋 Introduction
 
-**Lim, Youngjae**<br>
-Majoring in archaeology<br>
-Seoul, Republic of Korea<br>
+**Lim, Youngjae**
+* **Role:**
+    * Research Professor at Pusan National University (BK21 Four)
+    * Lecturer at Kyungpook National University
+* **Focus:** Archaeology of East Asia, Mortuary Practices, Ancient Civil Engineering
+* **Location:** Busan, Republic of Korea 🇰🇷
 
-## Education
+I am an archaeologist specializing in **East Asian Archaeology**, with a particular focus on the **Baekje Kingdom**. My research integrates traditional archaeological methods with **data science, GIS, and 3D modeling** to uncover the mathematical designs, spatial hierarchies, and engineering techniques of ancient landscapes.
 
-###  Kyungpook National University, Daegu<br>
-&nbsp; Department of Archaeology and Anthropology / B.A.
+## 🔬 Research Interests
 
-###  Kyungpook National University, Daegu<br>
-&nbsp; Department of Archaeology and Anthropology / M.A.
+* **East Asian Archaeology:** Capital cities, Earthen fortifications (Toseong), Civil engineering techniques in East Asia
+* **Mortuary Archaeology:** Baekje royal & general tombs, Mortuary rituals & practices
+* **Landscape Archaeology:** Visual hierarchy, Viewshed analysis
+* **Digital Archaeology:** 3D Volumetric analysis, Parametric design, GIS applications
+* **Interdisciplinary Studies:** Application of Astronomy & Physics in Archaeology
 
-### Kyungpook National University, Daegu<br>
-&nbsp; Department of Archaeology and Anthropology / Ph.D
+## 🎓 Education
 
-## Affiliation
+* **Ph.D.** in Archaeology, Kyungpook National University (2022)
+* **M.A.** in Archaeology, Kyungpook National University
+* **B.A.** in Archaeology, Kyungpook National University
 
-### Kyungpook National University<br>
-&nbsp; Department of Archaeology and Anthropology / Lecturer
+## 🏫 Affiliation
 
-### Pusan National University<br>
-&nbsp; Department of Archaeology, Brainkorea21 Four, Advanced Graduate Project of Convergence of SAP in East Asia / Research Professor
+* **Current:**
+    * Research Professor, Dept. of Archaeology, **Pusan National University** (BK21 Four)
+    * Lecturer, Dept. of Archaeology, **Kyungpook National University**
+
+---
+📧 **Contact:** [Limprimejae@gmail.com]
